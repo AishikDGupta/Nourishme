@@ -1,0 +1,5 @@
+streamlit==1.24.0
+streamlit-option-menu==0.0.5  # replace with the version you are using
+Pillow==9.2.0  # replace with the version you are using
+google-generativeai==0.2.0  # replace with the version you are using
+streamlit-extras==0.2.0  # replace with the version you are using
